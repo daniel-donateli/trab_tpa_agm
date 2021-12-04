@@ -9,4 +9,4 @@ Grafo *init_grafo(int tam);
 
 void add_aresta(Grafo *g, int origem, int destino, float peso);
 
-void print_matriz(Grafo *g);
+void print_grafo(Grafo *g);
